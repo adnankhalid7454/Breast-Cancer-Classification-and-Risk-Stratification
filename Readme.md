@@ -2,6 +2,7 @@
 
 A deep learning pipeline for 3D medical image analysis using the Multi-Modal Multi-Plane Transformer architecture for breast cancer classification and risk stratification.
 
+You can download the model weights from the following link: https://doi.org/10.5281/zenodo.19711271
 
 ## 🎯 Project Overview
 
