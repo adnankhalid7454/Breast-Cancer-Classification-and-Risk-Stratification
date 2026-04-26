@@ -236,8 +236,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 For questions or issues, please open a GitHub issue or contact by email.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- M3T Architecture inspiration from medical imaging research
+- DOI: 
 ---
 
